@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shah-Siddharth
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me? siddharthshah1102@gmail.com
 
 <!---
